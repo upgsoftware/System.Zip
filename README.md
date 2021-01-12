@@ -1,7 +1,7 @@
 # System.Zip
 
 
---  SISTEMA...............: Zip                                                     --
+SISTEMA...............: Zip                                                     --
 --  LINGUAGEM/DB..........: Delphi 10.3 Rio (32 bits / 64 bits )                    --
 --  DATA..................: 09/01/2020                                              --
 --  AUTOR/PROGRAMADOR.....: Adriano Zanini (2019)                                   --
