@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/22 13:13:13.000.406,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 23:04:29.000.140,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/09 11:44:55.000.784,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/09 11:45:52.000.051,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi\Delphi\trunk\10.3\VCL\Demos\Zip\Zip.View.Principal.dfm</Transaction>
+    <Transaction>2021/01/09 11:45:52.000.051,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\Delphi\trunk\10.3\VCL\Demos\Zip\Zip.View.Principal.pas</Transaction>
+    <Transaction>2021/01/09 11:45:56.000.393,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\Delphi\trunk\10.3\VCL\Demos\Zip\Zip.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
