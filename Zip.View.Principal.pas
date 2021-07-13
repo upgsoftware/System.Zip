@@ -120,7 +120,7 @@ procedure TFrmPrincipal.Adicionarpasta1Click(Sender: TObject);
 Var
   Dir : String;
 begin
-  {Criada = 09/01/2021}
+  {Criada = 09/01/2022}
   Dir := GetCurrentDir;
   // Adcionar uma pasta de arquivos
   if FileCtrl.SelectDirectory(Dir, [sdAllowCreate, sdPerformCreate,
@@ -128,13 +128,15 @@ begin
      begin
      ListarArquivos(Dir,True);
      end;
+	 
+	 
+	 
 end;
 
 procedure TFrmPrincipal.BtnAdicionarClick(Sender: TObject);
 begin
   {Criada = 09/01/2021}
   OpenDialog.DefaultExt := '';
-  OpenDialog.Filter     := '';
   OpenDialog.Options    := [ ofHideReadOnly, ofEnableSizing ];
   if OpenDialog.Execute then
      begin
